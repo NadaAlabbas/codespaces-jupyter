@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
-
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+##ِِAuther 
+fig. ax = plt.subplots ( figsize= (3.3) )
+ax.text (0.1, 0.2, "Author" fontsize= 16)
+ax.text ( 0.1, 0.1 " Nada Alabbas" fontsize= 12 )
+ax.axis ('off')
+plt.savefig ('11-Authordetials-png', bbox_inches= 'tight', pad_inches=0.1) 
+plt.show()
